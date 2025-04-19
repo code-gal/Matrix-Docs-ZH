@@ -2,8 +2,8 @@
 *
 
 # 但不忽略（取消忽略）以下指定的目录和文件
-!/Matri Spec - 中文/
-!/Synapse Docs - 中文/
+!/Matrix Spec - 中文
+!/Synapse Docs - 中文
 !/ReadMe.md
 
 # 如果目录名或文件名本身包含特殊字符，可能需要转义，但通常不需要
