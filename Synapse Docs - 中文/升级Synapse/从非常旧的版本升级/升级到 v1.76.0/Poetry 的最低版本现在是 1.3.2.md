@@ -1,0 +1,1 @@
+﻿Poetry 的最低支持版本现在是 1.3.2（之前是 1.2.0，自 Synapse 1.67 起）。如果您使用 `poetry install` 从源代码检出安装 Synapse，您应升级 poetry：请参阅其[安装说明](https://python-poetry.org/docs/#installation)。对于所有其他安装方法，无需采取任何措施。

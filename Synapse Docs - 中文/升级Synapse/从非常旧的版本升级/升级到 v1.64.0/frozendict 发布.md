@@ -1,0 +1,1 @@
+﻿[frozendict 2.3.3](https://github.com/Marco-Sulla/python-frozendict/releases/tag/v2.3.3) 最近发布，修复了在 `/sync` 请求期间发生的内存泄漏。我们建议通过 pip 安装 Synapse 的服务器管理员使用 `pip install --upgrade frozendict` 升级 frozendict。来自 `matrixdotorg/synapse` 的 Docker 镜像和来自 `packages.matrix.org` 的 Debian 包已经包含更新的库。

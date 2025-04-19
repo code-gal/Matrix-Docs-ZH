@@ -1,0 +1,1 @@
+﻿Synapse 1.78.0 用一个在 `/_synapse/admin/v1/media/delete` 的相同端点替换了 `/_synapse/admin/v1/media/<server_name>/delete` 管理 API。请更新您的工具以使用新端点。弃用的版本将在未来版本中移除。

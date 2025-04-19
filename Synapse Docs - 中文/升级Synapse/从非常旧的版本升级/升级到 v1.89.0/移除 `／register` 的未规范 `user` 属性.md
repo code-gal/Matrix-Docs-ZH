@@ -1,0 +1,1 @@
+﻿应用服务不再能够通过 `user` 属性调用 `/register` 来创建新用户。应使用标准的 `username` 属性。有关更多信息，请参阅[应用服务规范](https://spec.matrix.org/v1.7/application-service-api/#server-admin-style-permissions)。
